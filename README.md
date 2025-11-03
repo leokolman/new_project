@@ -43,8 +43,3 @@ Another challenge is avoiding bias towards big teams (like Real Madrid or Manche
 ## What next
 In the future, the model could include live match data or player tracking information to update predictions in real time.
 
-## Ethical considerations
-Predictions should be used responsibly — not for gambling or unfair advantages.  
-The model should be transparent about its limitations and accuracy.
-
----
